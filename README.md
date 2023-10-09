@@ -57,7 +57,7 @@ The repo contains the following:
 
 This portfolio site project is filled with sample data so that you can immediately open Codespaces, see it running, and deploy at any point.
 
-Your development environment is all set for you to start. Based on our [JavaScript Codespace Template (React)](https://github.com/microsoft/codespaces-teaching-template-js), here is what is already setup and ready for you to use:
+Your development environment is all set for you to start. Based on our [JavaScript Codespace Template (React)](https://github.com/elisha-kiplangat/portfolio-demo), here is what is already setup and ready for you to use:
 
 * Simple [React](https://reactjs.org/) application with components for each section of the portfolio site
 * [Parcel](https://parceljs.org/) in place to build your site when deploying
@@ -65,7 +65,7 @@ Your development environment is all set for you to start. Based on our [JavaScri
 
 ### Create your portfolio
 
-1. Create a repository from this template. Use this [create repo link](https://github.com/microsoft/codespaces-project-template-js/generate). Select the repository owner, provide a name, a description if you'd like and if you'd like the new repository to be public or private.
+1. Create a repository from this template. Use this [create repo link](https://github.com/elisha-kiplangat/generate). Select the repository owner, provide a name, a description if you'd like and if you'd like the new repository to be public or private.
 1. Before creating the Codespace, enable GitHub Copilot for your account. If it is not enabled, take a look at [Customize your portfolio site using Copilot](#-customize-your-site-in-3-steps).
 1. Navigate to the main page of the newly created repository.
 3. Under the repository name, use the Code drop-down menu, and in the Codespaces tab, select "Create codespace on main".
